@@ -8,3 +8,4 @@ umap-learn
 requests
 dataclasses-json
 python-dotenv
+torch
